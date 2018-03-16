@@ -61,9 +61,6 @@ F:0-69.
 
 You will lose 5% of the lab report grade for each day a report is late. This is capped after 4 days, so after 4 days your baseline score for the report is 80%. You can trade clicker drops for 3-day extensions. 
 
-# Resources
-TODO: slack, github classroom, cluster access, clicker registration
-
 # Policies
 
 ## Academic integrity
