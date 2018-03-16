@@ -33,7 +33,19 @@ Attendance at both lecture and lab sessions is mandatory for the course. In the 
 For the first 7 weeks, students will work on a weekly lab project during the scheduled lab sessions. Reports for each week's project are due the following Tuesday at the start of class, and will be returned within one week. Students will additionally be responsible for maintaining an electronic notebook. For the last 3 weeks of the quarter, students will work on an independent project.
 
 # Schedule
-TODO
+| Week | Date | Topic |
+|----------|----------|-------|
+| 1 | 04/02/2018 | **Lab 1: What causes antibiotic resistance?** <br> (NGS, sequence alignment, variant calling) |
+| 2 | 04/09/2018 | **Lab 2: I got vaccinated, why did I get the flu?!** <br> More NGS, error control |
+| 3 | 04/16/2018 | **Lab 3: So where do all those reference genomes come from, anyway?** <br> Genome assembly |
+| 4 | 04/23/2018 | **Lab 4: Why don’t snakes have legs?** <br> Comparative genomics, RNA-seq|
+| 5 | 04/30/2018 | **Lab 5: Comparative genomics, RNA-seq** <br> GWAS, big data|
+| 6 | 05/07/2018 | **Lab 6: Proteomics TODO** <br> Proteomics|
+| 7 | 05/14/2018 | **Bioinformatics in the real world** <br> Primary literature review, software installation, data access|
+| 8 | 05/21/2018 | Independent Projects|
+| 9 | 05/28/2018 | Independent Projects|
+| 10 | 06/04/2018 | Independent Projects|
+
 
 # Grading
 Grades will be based on lab reports (60%), final projects (15%), lab notebooks (10%), quizzes and participation questions (10%), and attendance (5%).
