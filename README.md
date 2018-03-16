@@ -3,7 +3,7 @@ Course website for CSE Spring 2018
 
 [Syllabus](https://github.com/gymreklab/cse185-spring18/blob/master/cse185-spring18-syllabus.md)
 
-[IClicker policy](TODO)
+[IClicker policy](https://github.com/gymreklab/cse185-spring18/blob/master/cse185-spring18-clickers.md)
 
 [Labs](TODO)
 
