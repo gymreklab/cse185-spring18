@@ -5,7 +5,7 @@ Course website for CSE Spring 2018
 
 [IClicker policy](https://github.com/gymreklab/cse185-spring18/blob/master/cse185-spring18-clickers.md)
 
-[Labs](TODO)
+[Labs](cse185-spring18-labs.md)
 
 [Final projects](TODO)
 
