@@ -79,3 +79,43 @@ answered questions, discuss them and suggest ways to solve them with future
 experiments or analyses. Also include any information specifically requested in
 the tutorial. 
 * **Citations**:  You can use any commonly used format you like, but be consistent. Lab reports will be submitted via turnitin to check for plagiarism, so be sure to cite other people’s ideas, and put everything in your own words (paraphrasing) if you aren’t using direct quotes. 
+
+### Scoring
+
+#### Title and Abstract (1 point)
+* 0 (one or both is missing)
+* 0.5 (title is not descriptive OR abstract has large scientific mistakes)
+* 1 (title is descriptive, abstract includes what was done and why, and the major finding(s)
+
+#### Introduction (2 points)
+* 0 (the section is missing)
+* 0.5 (there are large scientific inaccuracies)
+* 1 (missing 2 of: mostly correct science, a citation, clearly stated significance)
+* 1.5 (missing 1 of: mostly correct science, a citation, clearly stated significance)
+* 2 (has all 3: mostly correct science, a citation, clearly stated significance)
+
+#### Methods (2 points)
+* 0 (the section is missing)
+* 0.5 (there is not enough to reproduce the results AND there are mistakes in analysis)
+* 1 (there is not enough to reproduces the results OR there are mistakes in analysis)
+* 1.5 (everything is there and correct, but style is incorrect)
+* 2 (everything is there and correct, and style is correct)
+
+#### Results (2 points)
+* 0 (the section is missing)
+* 0.5 (missing 3: all results from tutorial, text is clear and shows understanding, figures/tables are clear and labeled, sticks to the objective facts)
+* 1 (missing 2 of: all results from tutorial, text is clear and shows understanding, figures/tables are clear and labeled, sticks to the objective facts)
+* 1.5 (missing 1 of: all results from tutorial, text is clear and shows understanding, figures/tables are clear and labeled, sticks to the objective facts)
+* 2 (has all 4: all results from tutorial, text is clear and shows understanding, figures/tables are clear and labeled, sticks to the objective facts)
+
+#### Discussion (2 points)
+* 0 (the section is missing)
+* 0.5 (missing interpretation and/or request items from tutorial)
+* 1 (interprets meaning of results, has requested items from tutorial, has large misunderstandings of science)
+* 1.5 (interprets meaning of results, has requested items from tutorial, may have small misunderstandings of science)
+* 2 (interprets meaning of results, has requested items from tutorial, shows strong understanding of the science)
+
+#### Citations, spelling, and grammar (1 point)
+* 0 (there are no citations)
+* 0.5 (there are major spelling and grammar issues)
+* 1 (there are only minor spelling and grammar mistakes)
