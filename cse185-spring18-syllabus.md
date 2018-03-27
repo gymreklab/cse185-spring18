@@ -4,7 +4,7 @@
 
 **TAs**: Ileena Mitra (ileenamitra@eng.ucsd.edu), Nima Mousavi (nimousav@eng.ucsd.edu), Stephanie F. Feupe (szfeudji@eng.ucsd.edu)
 
-**Class**: MW 9-9:50am CSB 1 (Lecture), TR 11:00am-12:50pm EBU3B B230 (Lab)
+**Class**: MW 9-9:50am CSB 1 (Lecture), TR 11:00am-12:50pm EBU3B B230 (Lab Section 1), TR 11:00am-12:50pm EBU3B B260 (Lab Section 2), TR 1:00pm-2:50pm EBU3B B230 (Lab Section 3)
 
 **Office Hours**: Dr. Gymrek TR 3:30-4:30pm CSE4216
 
@@ -26,9 +26,10 @@ By the end of the course, students will:
 * Learn and use accepted best practices for bioinformatics.
 
 ## Course structure
-The course meets twice weekly for 3 hours. The first hour will consist of a lecture followed by a two hour lab session. Lectures will cover background material needed to complete the lab projects, and will have graded in-class quizzes and participation questions using iClickers.
+The course consists of two lectures (1 hour) and two lab sessions (2 hours) each week. Based on the time you signed up for, you will be assigned to a lab section on the first day of class.
+Lectures will cover background material needed to complete the lab projects, and will have graded in-class quizzes and participation questions using iClickers.
 
-Attendance at both lecture and lab sessions is mandatory for the course. In the case of a valid excuse (must be approved by the instructor before the scheduled class), points for quizzes and participation points can be made up.
+Attendance at both lecture and lab sessions is mandatory for the course and attendance will be taken each day. In the case of a valid excuse (must be approved by the instructor before the scheduled class), points for quizzes and participation points can be made up.
 
 For the first 7 weeks, students will work on a weekly lab project during the scheduled lab sessions. Reports for each week's project are due the following Tuesday at the start of class, and will be returned within one week. Students will additionally be responsible for maintaining an electronic notebook. For the last 3 weeks of the quarter, students will work on an independent project.
 
@@ -39,8 +40,8 @@ For the first 7 weeks, students will work on a weekly lab project during the sch
 | 2 | 04/09/2018 | **Lab 2: I got vaccinated, why did I get the flu?!** <br> More NGS, error control |
 | 3 | 04/16/2018 | **Lab 3: So where do all those reference genomes come from, anyway?** <br> Genome assembly |
 | 4 | 04/23/2018 | **Lab 4: Why don’t snakes have legs?** <br> Comparative genomics, RNA-seq|
-| 5 | 04/30/2018 | **Lab 5: Comparative genomics, RNA-seq** <br> GWAS, big data|
-| 6 | 05/07/2018 | **Lab 6: Proteomics TODO** <br> Proteomics|
+| 5 | 04/30/2018 | **Lab 5: How tall do my genes say I should be?** <br> GWAS, big data|
+| 6 | 05/07/2018 | **Lab 6: Proteomics<br> Proteomics|
 | 7 | 05/14/2018 | **Bioinformatics in the real world** <br> Primary literature review, software installation, data access|
 | 8 | 05/21/2018 | Independent Projects|
 | 9 | 05/28/2018 | Independent Projects|
@@ -59,7 +60,7 @@ B+:87-89, B:83-86, B-:80-82,
 C+:77-79, C:73-76, C-:70-72,
 F:0-69.
 
-You will lose 5% of the lab report grade for each day a report is late. This is capped after 4 days, so after 4 days your baseline score for the report is 80%. You can trade clicker drops for 3-day extensions. 
+You will lose 5% of the lab report grade for each day a report is late. This is capped after 4 days, so after 4 days your baseline score for the report is 80%. 
 
 # Policies
 
