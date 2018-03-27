@@ -2,7 +2,7 @@
 
 **Instructor**: Dr. Melissa Gymrek, mgymrek@eng.ucsd.edu
 
-**TAs**: Ileena Mitra (ileenamitra@eng.ucsd.edu), Nima Mousavi (nimousav@eng.ucsd.edu), Stephanie Feudijio Feupe (szfeudji@eng.ucsd.edu)
+**TAs**: Ileena Mitra (ileenamitra@eng.ucsd.edu), Nima Mousavi (nimousav@eng.ucsd.edu), Stephanie F. Feupe (szfeudji@eng.ucsd.edu)
 
 **Class**: MW 9-9:50am CSB 1 (Lecture), TR 11:00am-12:50pm EBU3B B230 (Lab)
 
