@@ -41,7 +41,7 @@ For the first 7 weeks, students will work on a weekly lab project during the sch
 | 3 | 04/16/2018 | **Lab 3: So where do all those reference genomes come from, anyway?** <br> Genome assembly |
 | 4 | 04/23/2018 | **Lab 4: Why don’t snakes have legs?** <br> Comparative genomics, RNA-seq|
 | 5 | 04/30/2018 | **Lab 5: How tall do my genes say I should be?** <br> GWAS, big data|
-| 6 | 05/07/2018 | **Lab 6: Proteomics<br> Proteomics|
+| 6 | 05/07/2018 | **Lab 6: Proteomics**<br> Proteomics|
 | 7 | 05/14/2018 | **Bioinformatics in the real world** <br> Primary literature review, software installation, data access|
 | 8 | 05/21/2018 | Independent Projects|
 | 9 | 05/28/2018 | Independent Projects|
