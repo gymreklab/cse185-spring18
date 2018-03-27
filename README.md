@@ -7,8 +7,6 @@ Course website for CSE Spring 2018
 
 [Labs](cse185-spring18-labs.md)
 
-[Final projects](TODO)
-
 [CSE185 Slack](cse185-sp18.slack.com)
 
 
