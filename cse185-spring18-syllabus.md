@@ -4,7 +4,7 @@
 
 **TAs**: Ileena Mitra (ileenamitra@eng.ucsd.edu), Nima Mousavi (nimousav@eng.ucsd.edu), Stephanie F. Feupe (szfeudji@eng.ucsd.edu)
 
-**Class**: MW 9-9:50am CSB 1 (Lecture), TR 11:00am-12:50pm EBU3B B230 (Lab Section 1), TR 11:00am-12:50pm EBU3B B260 (Lab Section 2), TR 1:00pm-2:50pm EBU3B B230 (Lab Section 3)
+**Class**: MW 9-9:50am CSB 1 (Lecture), TuTh 11:00am-12:50pm EBU3B B230 (Lab Section 1), TuTh 11:00am-12:50pm EBU3B B260 (Lab Section 2), TuTh 1:00pm-2:50pm EBU3B B230 (Lab Section 3)
 
 **Office Hours**: Dr. Gymrek TR 3:30-4:30pm CSE4216
 
