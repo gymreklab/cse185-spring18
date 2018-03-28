@@ -10,4 +10,4 @@ Every day that we have clicker questions, you will have the opportunity to get 1
 
 At the end of the quarter your 3 lowest clicker sessions will be automatically dropped. This is designed to accommodate approved, planned absences, or unexpected absences due to illness.
 
-Do not bring multiple iClickers to class that are registered to other student in the course, because it violates the class academic honesty policies to answer questions from an iClicker registered to other students in the course.
+Do not bring multiple iClickers to class that are registered to other students in the course, because it violates the class academic honesty policies to answer questions from an iClicker registered to other students in the course.
