@@ -1,6 +1,6 @@
 # CSE185 Spring 2018 IClicker Policy
 
-iClickers are required, and you should bring them to every class. All in class quizzes as well as participation points will account for 10% of your total grade.
+iClickers are required, and you should bring them to every lecture and lab class. All in class quizzes as well as participation points will account for 10% of your total grade.
 
 Participation, discussion, and anonymous voter questions will be marked in blue. Those may or may not have a correct answer, but as long as you select ANY answer you will get credit for that questions.
 
