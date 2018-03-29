@@ -6,7 +6,7 @@
 
 **Class**: MW 9-9:50am CSB 1 (Lecture), TuTh 11:00am-12:50pm EBU3B B230 (Lab Section 1), TuTh 11:00am-12:50pm EBU3B B260 (Lab Section 2), TuTh 1:00pm-2:50pm EBU3B B230 (Lab Section 3)
 
-**Office Hours**: Dr. Gymrek TR 3:30-4:30pm CSE4216, Ileena Tue 10-11am EBU3B B240A
+**Office Hours**: Dr. Gymrek TuTh 3:30-4:30pm CSE4216, Ileena Tue 10-11am EBU3B B240A, Nima Thu 10-11am EBU3B B250A
 
 Private appointments to discuss accommodations or special circumstances can be arranged by email.
 
