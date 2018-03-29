@@ -6,7 +6,7 @@
 
 **Class**: MW 9-9:50am CSB 1 (Lecture), TuTh 11:00am-12:50pm EBU3B B230 (Lab Section 1), TuTh 11:00am-12:50pm EBU3B B260 (Lab Section 2), TuTh 1:00pm-2:50pm EBU3B B230 (Lab Section 3)
 
-**Office Hours**: Dr. Gymrek TR 3:30-4:30pm CSE4216
+**Office Hours**: Dr. Gymrek TR 3:30-4:30pm CSE4216, Ileena Tue 10-11am EBU3B B240A
 
 Private appointments to discuss accommodations or special circumstances can be arranged by email.
 
@@ -65,7 +65,7 @@ You will lose 5% of the lab report grade for each day a report is late. This is 
 # Policies
 
 ## Academic integrity
-During lab, while working on coding and analysis you are encouraged to chat with your classmates, look things up online, and ask instructors for help. However, when writing up your lab reports, work independently and make sure that the lab report is *in your own words* and *reflects your own understanding*. You may use scientific literature, but must cite it in the text. DO NOT directly copy/paste code to/from other students in the class or websites. DO NOT post questions about assignments on sites like seqanswers or stack overflow (you can research existing threads on these sites, just don't start new ones for the coursework). All work will be checked via turnitin. Violators of these policies may be subject to UCSD rules for academic integrity.
+During lab, while working on coding and analysis you are encouraged to chat with your classmates, look things up online, and ask instructors for help. However, when writing up your lab reports, work independently and make sure that the lab report is *in your own words* and *reflects your own understanding*. You may use scientific literature, but must cite it in the text. DO NOT directly copy/paste code to/from other students in the class or websites. DO NOT post questions about assignments on sites like seqanswers or stack overflow (you can research existing threads on these sites, just don't start new ones for the coursework). All work will be checked for plagiarism. Violators of these policies may be subject to UCSD rules for academic integrity.
 
 ## Accommodations for students with disabilities
 If you have a disability for which you are or may be requesting accommodations, please contact the Office for Students with Disabilities.  You must have documentation from the the Office before accommodations can be granted.
