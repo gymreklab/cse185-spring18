@@ -78,7 +78,7 @@ why you are interpreting them this way. If you encountered any problems, or
 answered questions, discuss them and suggest ways to solve them with future
 experiments or analyses. Also include any information specifically requested in
 the tutorial. 
-* **Citations**:  You can use any commonly used format you like, but be consistent. Lab reports will be submitted via turnitin to check for plagiarism, so be sure to cite other people’s ideas, and put everything in your own words (paraphrasing) if you aren’t using direct quotes. 
+* **Citations**:  You can use any commonly used format you like, but be consistent. Lab reports will throughgly examined for plagiarism, so be sure to cite other people’s ideas, and put everything in your own words (paraphrasing) if you aren’t using direct quotes. 
 
 ### Scoring
 
