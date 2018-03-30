@@ -31,7 +31,7 @@ Lectures will cover background material needed to complete the lab projects, and
 
 Attendance at both lecture and lab sessions is mandatory for the course and attendance will be taken each day. In the case of a valid excuse (must be approved by the instructor before the scheduled class), points for quizzes and participation points can be made up.
 
-For the first 7 weeks, students will work on a weekly lab project during the scheduled lab sessions. Reports for each week's project are due the following Tuesday at the start of class and should be submitted through Github, and grades will be will be posted on Gradescope within one week. Students will additionally be responsible for maintaining an electronic notebook that should also be submited with each lab through Github. For the last 3 weeks of the quarter, students will work on an independent project.
+For the first 7 weeks, students will work on a weekly lab project during the scheduled lab sessions. Reports for each week's project are due the following Tuesday at the start of class and should be submitted through Github, and grades will be will be posted on Gradesource within one week. Students will additionally be responsible for maintaining an electronic notebook that should also be submited with each lab through Github. For the last 3 weeks of the quarter, students will work on an independent project.
 
 # Schedule
 | Week | Date | Topic |
