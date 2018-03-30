@@ -12,7 +12,7 @@ Course website for CSE Spring 2018
 
 | Week | Date | Topic | Assignment Link | Slides |
 |----------|----------|-------|------- |------|
-| 1 | 04/02/2018 | **Lab 1: What causes antibiotic resistance?** <br> (NGS, sequence alignment, variant calling) | | |
+| 1 | 04/02/2018 | **Lab 1: What causes antibiotic resistance?** <br> NGS, sequence alignment, variant calling | | |
 | 2 | 04/09/2018 | **Lab 2: I got vaccinated, why did I get the flu?!** <br> More NGS, error control | | |
 | 3 | 04/16/2018 | **Lab 3: So where do all those reference genomes come from, anyway?** <br> Genome assembly | | |
 | 4 | 04/23/2018 | **Lab 4: Why don’t snakes have legs?** <br> Comparative genomics, RNA-seq| | |
