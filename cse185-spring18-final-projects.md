@@ -14,7 +14,7 @@ This project is worth 15% of your final grade, broken down as follows:
 # Project Proposal (3%)
 **Due Friday, May 18 11:59pm**
 
-No more than one page total, with a title and 2 sections, as described below:
+No more than one page total, with a title and 3	sections, as described below:
 
 ### Biological Question
 1 paragraph describing the scientific question you are trying to answer. no citations are required for the proposal.
@@ -71,31 +71,49 @@ Project resports will be structured the same as a regular lab report, with the f
 Project reports will be out of 20 points:
 
 * Title and Abstract: 2 points
+
 (1 pt) Title is descriptive enough to understand the project
+
 (1 pt) Abstract includes the 3 components stated above
 
 * Introduction: 4 points
+
 (1 pt) Explain current scientific knowledge related to the biological question
+
 (1 pt) Explain importance of the biological question
+
 (2 pts) Shows strong understanding of the science
 
 * Methods: 4 points
+
 (1 pt): Style is correct (uses past tense, tells what was done)
+
 (1 pt): There are sufficient details to reproduce the analysis
+
 (1 pt): There are at least 5 software tools
+
 (1 pt): One of the tools is either new to the class or is a new script
 
 * Results: 4 points
+
 (1 pt): Style is correct (describes key observations in paragraph form, sticks to the facts)
+
 (1 pt): Figures are well labeled and easy to understand
+
 (1 pt): Results contribute to answering the biological question
+
 (1 pt): Results document processing steps from methods (i.e. reads that pass each step)
 
 * Discussion: 4 points
+
 (1 pt): Interprets meaning of results in terms of the original biological question
+
 (2 pts): Shows a strong understanding of the science
+
 (1 pt): Makes a suggestion for further research or a different approach
 
 * Citations, spelling, and grammar: 2 points
+
 (1 pt): Has minimum required citations (4 for intro, tools used in methods)
+
 (1 pt): Has only minor spelling and grammar mistakes
