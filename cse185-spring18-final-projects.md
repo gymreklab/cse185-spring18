@@ -23,7 +23,8 @@ Like the lab assignments, projects will be completed on Github. A project link w
 This project is worth 15% of your final grade, broken down as follows:
 
 # Project Proposal (3%)
-**Due Friday, May 18 11:59pm**
+<a name="proposal"></a>
+**Due Tuesday, May 29 11:00am**
 
 No more than one page total, with a title and 3	sections, as described below:
 
@@ -53,6 +54,7 @@ Proposals are scored out of 6 points:
 * 1pt: Proposed pipeline seems plausible to complete in 2 weeks and demonstrates thought
 
 # Lightning Talk (2%)
+<a name="lightning"></a>
 **Sign up to present either Wednesday May 30, Monday June 4, or Monday June 6**
 
 A 60 second presentation to the class about what you’ve been working on. Include your project plans and any progress you’ve made. You must include one informative slide, and one slide with a clicker question for the class. You can ask a quiz question about your topic, for advice for your project, or for predictions about what your results will show. 
@@ -66,6 +68,7 @@ Talks are out of 4 pts:
 * 2pts: Good summary of proposed work & any progress
 
 # Project Report (10%)
+<a name="report"></a>
 **Due Friday, June 8 11:59pm**
 
 Project resports will be structured the same as a regular lab report, with the following additional guidlines:
