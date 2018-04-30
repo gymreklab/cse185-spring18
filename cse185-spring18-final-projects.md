@@ -1,13 +1,24 @@
 # CSE185 Spring 2018 Final Project Guidelines
 
-For the last three weeks of class, you will implement a bioinformatics pipeline to answer a biological question, like we have been doing in the weekly tutorials, but *you will choose* the data and design an appropriate analysis pipeline. 
+For the last three weeks of class, you will implement a bioinformatics pipeline to answer a scientific question, like we have been doing in the weekly tutorials, but this time *you will choose* the data and design an appropriate analysis pipeline. 
 
-TODO overview + project options:
-* must use public data
-* reproduce analysis from paper
-* answer new question
-do on github
-also lab notebook during this period must be maintained and will be graded
+Your project will consist of identifying a dataset and a scientific question to answer. A few ideas for choosing a dataset and question:
+
+* Re-analyze a published dataset to reproduce the result presented in the original paper but using a modified approach.
+* Re-analyze a published dataset to answer a different biological question than the original paper.
+* Compare software performance of different tools on the same dataset.
+
+Your dataset must meet the following requirements:
+
+* It must be *publicly available*.
+* Data must be less than 2GB total so you can analyze it on `ieng6`.
+* You cannot choose data we've already analyzed in class.
+* While the most obvious choice is to analyze sequencing datasets available on SRA, other types of data are possible. If in doubt, ask an instructor for advice.
+* Your project/data must be somewhat related to a topic we've covered in class. This is open to interpretation. Again if in doubt, ask an instructor.
+
+The remainder lab sections on Tuesdays and Thursdays will be devoted to working on the projects. You are encouraged to come in and work during the class time, and attendance will still be taken. Take advantage of the instructors as useful resources during this time.
+
+Like the lab assignments, projects will be completed on Github. A project link will be posted during week 8. During the project period, you are still expected to maintain a lab notebook as part of this repository. At the very least, you should have one entry per lab class period. You can document what you've tried, notes about datasets and ideas, and eventually the commands you're using to tackle your biological questions.
 
 This project is worth 15% of your final grade, broken down as follows:
 
