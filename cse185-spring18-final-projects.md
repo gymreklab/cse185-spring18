@@ -14,7 +14,7 @@ Your dataset must meet the following requirements:
 * Data must be less than 2GB total so you can analyze it on `ieng6`.
 * You cannot choose data we've already analyzed in class.
 * While the most obvious choice is to analyze sequencing datasets available on SRA, other types of data are possible. If in doubt, ask an instructor for advice.
-* Your project/data must be somewhat related to a topic we've covered in class. This is open to interpretation. Again if in doubt, ask an instructor.
+* Your project/data must be somewhat related to a class of methods we've covered in class. This is open to interpretation. Again if in doubt, ask an instructor.
 
 The remainder lab sections on Tuesdays and Thursdays will be devoted to working on the projects. You are encouraged to come in and work during the class time, and attendance will still be taken. Take advantage of the instructors as useful resources during this time.
 
