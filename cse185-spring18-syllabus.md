@@ -2,11 +2,12 @@
 
 **Instructor**: Dr. Melissa Gymrek, mgymrek@eng.ucsd.edu
 
-**TAs**: Ileena Mitra (ileenamitra@eng.ucsd.edu), Nima Mousavi (nimousav@eng.ucsd.edu), Stephanie Feudijio Feupe (szfeudji@eng.ucsd.edu)
+**TAs**: Ileena Mitra (ileenamitra@eng.ucsd.edu), Nima Mousavi (nimousav@eng.ucsd.edu), Stephanie F. Feupe (szfeudji@eng.ucsd.edu)
 
-**Class**: MW 9-9:50am CSB 1 (Lecture), TR 11:00am-12:50pm EBU3B B230 (Lab)
+**Class**: MW 9-9:50am CSB 1 (Lecture), TuTh 11:00am-12:50pm EBU3B B230 (Lab Section 1), TuTh 11:00am-12:50pm EBU3B B260 (Lab Section 2), TuTh 1:00pm-2:50pm EBU3B B230 (Lab Section 3)
 
-**Office Hours**: Dr. Gymrek TR 3:30-4:30pm CSE4216
+**Office Hours**: Dr. Gymrek TuTh 3:30-4:30pm CSE4216, Ileena Tue 10-11am EBU3B B240A, Nima Thu 10-11am EBU3B B250A, 
+Stephanie Monday 10:30-11:30am  at CSE4254
 
 Private appointments to discuss accommodations or special circumstances can be arranged by email.
 
@@ -26,21 +27,22 @@ By the end of the course, students will:
 * Learn and use accepted best practices for bioinformatics.
 
 ## Course structure
-The course meets twice weekly for 3 hours. The first hour will consist of a lecture followed by a two hour lab session. Lectures will cover background material needed to complete the lab projects, and will have graded in-class quizzes and participation questions using iClickers.
+The course consists of two lectures (1 hour) and two lab sessions (2 hours) each week. Based on the time you signed up for, you will be assigned to a lab section on the first day of class.
+Lectures will cover background material needed to complete the lab projects, and will have graded in-class quizzes and participation questions using iClickers.
 
-Attendance at both lecture and lab sessions is mandatory for the course. In the case of a valid excuse (must be approved by the instructor before the scheduled class), points for quizzes and participation points can be made up.
+Attendance at both lecture and lab sessions is mandatory for the course and attendance will be taken each day. In the case of a valid excuse (must be approved by the instructor before the scheduled class), points for quizzes and participation points can be made up.
 
-For the first 7 weeks, students will work on a weekly lab project during the scheduled lab sessions. Reports for each week's project are due the following Tuesday at the start of class, and will be returned within one week. Students will additionally be responsible for maintaining an electronic notebook. For the last 3 weeks of the quarter, students will work on an independent project.
+For the first 7 weeks, students will work on a weekly lab project during the scheduled lab sessions. Reports for each week's project are due the following Tuesday at the start of class and should be submitted through Github, and grades will be will be posted on Gradesource within one week. Students will additionally be responsible for maintaining an electronic notebook that should also be submited with each lab through Github. For the last 3 weeks of the quarter, students will work on an independent project.
 
 # Schedule
 | Week | Date | Topic |
 |----------|----------|-------|
-| 1 | 04/02/2018 | **Lab 1: What causes antibiotic resistance?** <br> (NGS, sequence alignment, variant calling) |
+| 1 | 04/02/2018 | **Lab 1: What causes antibiotic resistance?** <br> NGS, sequence alignment, variant calling |
 | 2 | 04/09/2018 | **Lab 2: I got vaccinated, why did I get the flu?!** <br> More NGS, error control |
 | 3 | 04/16/2018 | **Lab 3: So where do all those reference genomes come from, anyway?** <br> Genome assembly |
 | 4 | 04/23/2018 | **Lab 4: Why don’t snakes have legs?** <br> Comparative genomics, RNA-seq|
-| 5 | 04/30/2018 | **Lab 5: Comparative genomics, RNA-seq** <br> GWAS, big data|
-| 6 | 05/07/2018 | **Lab 6: Proteomics TODO** <br> Proteomics|
+| 5 | 04/30/2018 | **Lab 5: What color should my eyes be?** <br> GWAS, big data|
+| 6 | 05/07/2018 | **Lab 6: CSI Proteomics**<br> Proteomics|
 | 7 | 05/14/2018 | **Bioinformatics in the real world** <br> Primary literature review, software installation, data access|
 | 8 | 05/21/2018 | Independent Projects|
 | 9 | 05/28/2018 | Independent Projects|
@@ -59,12 +61,12 @@ B+:87-89, B:83-86, B-:80-82,
 C+:77-79, C:73-76, C-:70-72,
 F:0-69.
 
-You will lose 5% of the lab report grade for each day a report is late. This is capped after 4 days, so after 4 days your baseline score for the report is 80%. You can trade clicker drops for 3-day extensions. 
+You will lose 5% of the lab report grade for each day a report is late. This is capped after 4 days, so after 4 days your baseline score for the report is 80%. 
 
 # Policies
 
 ## Academic integrity
-During lab, while working on coding and analysis you are encouraged to chat with your classmates, look things up online, and ask instructors for help. However, when writing up your lab reports, work independently and make sure that the lab report is *in your own words* and *reflects your own understanding*. You may use scientific literature, but must cite it in the text. DO NOT directly copy/paste code to/from other students in the class or websites. DO NOT post questions about assignments on sites like seqanswers or stack overflow (you can research existing threads on these sites, just don't start new ones for the coursework). All work will be checked via turnitin. Violators of these policies may be subject to UCSD rules for academic integrity.
+During lab, while working on coding and analysis you are encouraged to chat with your classmates, look things up online, and ask instructors for help. However, when writing up your lab reports, work independently and make sure that the lab report is *in your own words* and *reflects your own understanding*. You may use scientific literature, but must cite it in the text. DO NOT directly copy/paste code to/from other students in the class or websites. DO NOT post questions about assignments on sites like seqanswers or stack overflow (you can research existing threads on these sites, just don't start new ones for the coursework). All work will be checked for plagiarism. Violators of these policies may be subject to UCSD rules for academic integrity.
 
 ## Accommodations for students with disabilities
 If you have a disability for which you are or may be requesting accommodations, please contact the Office for Students with Disabilities.  You must have documentation from the the Office before accommodations can be granted.
