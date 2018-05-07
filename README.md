@@ -18,7 +18,7 @@ Course website for CSE 185 Spring 2018
 | 3 | 04/16/2018 | **Lab 3: So where do all those reference genomes come from, anyway?** <br> Genome assembly | [Lab 3 Github](https://classroom.github.com/a/LLSf9NwQ) <br> [Week 3 Reading](https://drive.google.com/file/d/1zBg8fr3WYTu_1uptU9rAYbWSVa7u7_N1/view?usp=sharing)|[Week 3 - Monday](https://1drv.ms/p/s!Av3Lz32wf4RPgROf0me7GfYkkCs6)  <br> [Week 3 - Wednesday](https://1drv.ms/p/s!Av3Lz32wf4RPgRX1IT6c3a8DvUSo)|
 | 4 | 04/23/2018 | **Lab 4: Why don’t snakes have legs?** <br> Comparative genomics, RNA-seq| [Lab 4 Github](https://classroom.github.com/a/p6U_fkJo) <br> [Week 4 Reading](https://drive.google.com/open?id=1QtmH61K59_Meux0jiMS7d9ZYFYMgwYUP)| [Week 4 - Monday](https://1drv.ms/p/s!Av3Lz32wf4RPgRfB3mELpjr6_d5F) <br> [Week 4 - Wednesday](https://1drv.ms/p/s!Av3Lz32wf4RPgRlrNIwgyYZhu9uL)|
 | 5 | 04/30/2018 | **Lab 5: What color should my eyes be?** <br> GWAS, big data| [Lab 5 Github](https://classroom.github.com/a/A6Yg-Xba)<br>[Week 5 Reading](https://drive.google.com/open?id=1_PMXVFLCkT0680A4hZ7nXbZkr8QId61x)| [Week 5 - Monday](https://1drv.ms/p/s!Av3Lz32wf4RPgRvksrliRbJFhBlM) <br> [Week 5 - Wednesday](https://1drv.ms/p/s!Av3Lz32wf4RPgR04SdjzX4QPgBmo)|
-| 6 | 05/07/2018 | **Lab 6: CSI Proteomics** <br> Proteomics| | |
+| 6 | 05/07/2018 | **Lab 6: CSI Proteomics** <br> Proteomics| | [Week 6 - Monday](https://1drv.ms/p/s!Av3Lz32wf4RPgR81VKiIlHyepwNU)|
 | 7 | 05/14/2018 | **Bioinformatics in the real world** <br> Primary literature review, software installation, data access| | |
 | 8 | 05/21/2018 | **Independent Projects**| | |
 | 9 | 05/28/2018 | **Independent Projects**| | |
