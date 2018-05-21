@@ -57,7 +57,7 @@ Proposals are scored out of 6 points:
 <a name="lightning"></a>
 **Sign up to present either Wednesday May 30, Monday June 4, or Monday June 6**
 
-A 60 second presentation to the class about what you’ve been working on. Include your project plans and any progress you’ve made. You must include one informative slide, and one slide with a clicker question for the class. You can ask a quiz question about your topic, for advice for your project, or for predictions about what your results will show. 
+A 60 second presentation to the class about what you’ve been working on. Include your project plans and any progress you’ve made. 
 
 ## Lightning Talk scoring
 
